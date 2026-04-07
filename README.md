@@ -26,8 +26,7 @@ This project analyzes customer churn for a telecom company using Power BI to ide
 - Data Visualization
 - Power Query
 ## 📷 Dashboard Preview
-![Overview](<img width="1263" height="752" alt="Screenshot 2026-04-07 224047" src="https://github.com/user-attachments/assets/b19a0f99-4680-4170-b481-5c4605dfc64e" />
-)
+![Overview] (<img width="1263" height="752" alt="Screenshot 2026-04-07 224047" src="https://github.com/user-attachments/assets/b19a0f99-4680-4170-b481-5c4605dfc64e" />)
 
 ## 🚀 Conclusion
 This dashboard helps stakeholders understand churn patterns and take data-driven decisions to improve customer retention.
